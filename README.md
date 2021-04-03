@@ -7,6 +7,8 @@ I modified it to support IntelliJ 2020.3 using libraries from maven jetbrain rep
 
 **update** - I continue to use the legacy plugin cf. [sample project using legacy plugin](https://github.com/gonnot/ideauidesigner-sample)
 
+**update 2** - See [Support message](https://intellij-support.jetbrains.com/hc/en-us/requests/3221430). It is better to use [this repository](https://www.jetbrains.com/intellij-repository/releases) than Bintray.
+
 All credit goes to original authors of the maven plugin.
 
 Usage
